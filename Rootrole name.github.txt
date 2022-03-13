@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+printf("Enter the root role name:");
+scanf("%s", s);
+printf(s);
+return 0;
+}
